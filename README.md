@@ -1,36 +1,19 @@
-# nasaPhotos
+# Foto do dia - NASA
 
-This template should help get you started developing with Vue 3 in Vite.
+PWA - Progressive Web App que utiliza a API publica da NASA para renderizar a foto do dia e suas informações.
 
-## Recommended IDE Setup
+Tecnologias utilizadas:
+- Vue.js 3
+- Vite
+- PWA Vite
+- Vuetify
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+  <img src="https://github.com/JessanyKaline/appPhotoNasa/blob/main/forReadme/gif.gif"></img>
 
-## Customize configuration
+O intuito do projeto foi testar como se comporta os PWA em smartphones e desktops e entender como é realizada sua configuração, abaixo uma foto do app no celular:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<img src="https://github.com/JessanyKaline/appPhotoNasa/blob/main/forReadme/smartphone.jpeg"></img>
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
-# appPhotoNasa
