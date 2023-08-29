@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiKey = import.meta.env.VITE_NASA_API_KEY
+const apiKey = 'ML7zl6HRF5yTby6MD5AEO82mr9zZw1RkCYOtF5Mo'
 
 const nasaApi = axios.create({
   baseURL:'https://api.nasa.gov'
